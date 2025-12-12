@@ -1,4 +1,4 @@
-# ⚙️ SMM:WE for PS3
-🎮 WIP port of SMM:WE for PS3
+# ⚙️ SMM:WE pata PS3
+🎮 port de SMM:WE for PS3
 
-Made by HeXp.
+Hecho por HeXp y resubido por Nashe!
